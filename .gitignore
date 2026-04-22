@@ -64,3 +64,8 @@ Thumbs.db
 cf-tunnel.exe
 cloudflared.exe
 ngrok.exe
+venv/
+env/
+__pycache__/
+*.pyc
+.env
